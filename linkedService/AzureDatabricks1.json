@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-2618590755781510.10.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/3b97a10c-ca5d-4ae0-9702-84b56726dcc0/resourceGroups/batch16rsg/providers/Microsoft.Databricks/workspaces/testdbfs",
+			"existingClusterId": "bhoompallyanushareddy@gmail.com"
+		}
+	}
+}
